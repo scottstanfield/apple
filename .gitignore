@@ -26,3 +26,7 @@ node_modules
 
 # Backup files created by p4merge
 *.orig
+
+# Ignore lock files and other back-ups.
+*#
+*~
